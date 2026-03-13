@@ -22,12 +22,14 @@ aux_links:
 # Footer
 footer_content: "© 2025 localai — Affordable AI inference for local businesses"
 
-# Plugins (GitHub Pages compatible)
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-
 # Markdown
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
