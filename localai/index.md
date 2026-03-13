@@ -1,5 +1,6 @@
 ---
 title: localai
+nav_order: 1
 ---
 
 # localai

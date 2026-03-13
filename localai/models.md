@@ -1,5 +1,6 @@
 ---
 title: Best Models for Business
+nav_order: 2
 ---
 
 # Best Models for Business

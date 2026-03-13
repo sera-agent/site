@@ -1,5 +1,6 @@
 ---
 title: Pricing
+nav_order: 5
 ---
 
 # Pricing

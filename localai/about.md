@@ -1,5 +1,6 @@
 ---
-title: About localai
+title: About
+nav_order: 6
 ---
 
 # About localai

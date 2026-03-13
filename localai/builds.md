@@ -1,5 +1,6 @@
 ---
 title: Build Configurations
+nav_order: 4
 ---
 
 # Build Configurations

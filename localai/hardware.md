@@ -1,5 +1,6 @@
 ---
 title: Hardware Options
+nav_order: 3
 ---
 
 # Hardware Options

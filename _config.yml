@@ -1,1 +1,33 @@
-theme: jekyll-theme-hacker
+title: localai
+tagline: Affordable AI inference hardware for local businesses
+description: Build and service custom inference servers under €10,000 — private, on-premise AI without cloud costs.
+
+url: "https://seramono.mooo.com"
+
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation
+nav_enabled: true
+
+# Theme settings
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Aux links (top right)
+aux_links:
+  "Contact":
+    - "mailto:hello@localai.example"
+
+# Footer
+footer_content: "© 2025 localai — Affordable AI inference for local businesses"
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
