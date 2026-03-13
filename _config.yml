@@ -5,26 +5,15 @@ description: Build and service custom inference servers under €10,000 — priv
 url: "https://seramono.mooo.com"
 baseurl: ""
 
-remote_theme: just-the-docs/just-the-docs
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# Navigation
-nav_enabled: true
-
-# Theme settings
-color_scheme: light
-search_enabled: true
-heading_anchors: true
-
-# Aux links (top right)
-aux_links:
-  "Contact":
-    - "mailto:hello@localai.example"
-
-# Footer
-footer_content: "© 2025 localai — Affordable AI inference for local businesses"
+# Minima settings
+minima:
+  social_links:
+    - { platform: email, user_url: "mailto:hello@localai.example" }
 
 # Markdown
 markdown: kramdown
