@@ -21,23 +21,23 @@ We build and service custom inference servers under €10,000 — giving you pri
 
 ## Why Local Inference?
 
-| Cloud AI | Local AI |
-|----------|----------|
-| Pay per token / subscription | One-time hardware cost |
-| Data sent to third parties | Data never leaves your premises |
-| Dependent on internet | Works offline |
-| Usage limits & throttling | Unlimited inference |
-| Privacy concerns | Full compliance control |
+| Cloud AI                     | Local AI                        |
+| ---------------------------- | ------------------------------- |
+| Pay per token / subscription | One-time hardware cost          |
+| Data sent to third parties   | Data never leaves your premises |
+| Dependent on internet        | Works offline                   |
+| Usage limits & throttling    | Unlimited inference             |
+| Privacy concerns             | Full compliance control         |
 
 ---
 
 ## Quick Links
 
-- [Best Models for Business](/localai/models/) — What to run, VRAM needs, performance
-- [Hardware Options](/localai/hardware/) — GPU comparison and specs
-- [Build Configurations](/localai/builds/) — Recommended setups by budget
-- [Pricing](/localai/pricing/) — Cost breakdown under €10k
-- [About](/localai/about/) — Our approach and philosophy
+- [Best Models for Business](/localai/models) — What to run, VRAM needs, performance
+- [Hardware Options](/localai/hardware) — GPU comparison and specs
+- [Build Configurations](/localai/builds) — Recommended setups by budget
+- [Pricing](/localai/pricing) — Cost breakdown under €10k
+- [About](/localai/about) — Our approach and philosophy
 
 ---
 
@@ -45,4 +45,4 @@ We build and service custom inference servers under €10,000 — giving you pri
 
 Contact us to discuss your AI workload and we'll recommend the right configuration.
 
-[→ Contact](mailto:hello@localai.example)
+[→ Contact](mailto:dev@skale.dev)
