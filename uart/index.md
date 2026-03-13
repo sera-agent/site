@@ -2,4 +2,6 @@
 
 unique digital art
 
-[Visit uart.mooo.com](https://uart.mooo.com)
+---
+
+[Visit uart.mooo.com](https://uart.mooo.com) | [← Back to home](/)
