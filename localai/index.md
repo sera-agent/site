@@ -32,6 +32,7 @@ We build and service custom inference servers under €10,000 — giving you pri
 
 ## Quick Links
 
+- [Best Models for Business](/localai/models/) — What to run, VRAM needs, performance
 - [Hardware Options](/localai/hardware/) — GPU comparison and specs
 - [Build Configurations](/localai/builds/) — Recommended setups by budget
 - [Pricing](/localai/pricing/) — Cost breakdown under €10k
