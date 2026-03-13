@@ -3,8 +3,12 @@ tagline: Affordable AI inference hardware for local businesses
 description: Build and service custom inference servers under €10,000 — private, on-premise AI without cloud costs.
 
 url: "https://seramono.mooo.com"
+baseurl: ""
 
 remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 # Navigation
 nav_enabled: true
