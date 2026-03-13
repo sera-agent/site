@@ -1,3 +1,7 @@
+---
+title: Hardware Options
+---
+
 # Hardware Options
 
 We use proven NVIDIA Tesla datacenter GPUs — reliable, widely supported, and affordable on the refurbished market.

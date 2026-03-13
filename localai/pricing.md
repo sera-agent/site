@@ -1,3 +1,7 @@
+---
+title: Pricing
+---
+
 # Pricing
 
 Transparent pricing for hardware and services. All builds stay under €10,000.

@@ -1,3 +1,7 @@
+---
+title: Build Configurations
+---
+
 # Build Configurations
 
 Recommended server configurations for different budgets and workloads.

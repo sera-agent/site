@@ -1,3 +1,7 @@
+---
+title: localai
+---
+
 # localai
 
 **Affordable AI inference hardware for local businesses.**
