@@ -6,13 +6,13 @@ experiments & projects
 
 ## Projects
 
-### [sera](https://github.com/sera-agent/site)
+### [sera](/sera/)
 clawdbot experiments
 
 ### [uart](https://uart.mooo.com)
 unique digital art
 
-### [localai](https://github.com/sera-agent/localai)
+### [localai](/localai/)
 local ai hw/inference
 
 ---
